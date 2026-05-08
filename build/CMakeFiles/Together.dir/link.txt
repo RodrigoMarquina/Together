@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Together.dir/link.d CMakeFiles/Together.dir/src/main.cpp.o -o Together  -ljack

@@ -1,0 +1,3 @@
+/home/kina/Documents/Together/build/CMakeFiles/Together.dir
+/home/kina/Documents/Together/build/CMakeFiles/edit_cache.dir
+/home/kina/Documents/Together/build/CMakeFiles/rebuild_cache.dir
